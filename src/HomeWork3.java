@@ -22,6 +22,13 @@ public class HomeWork3 {
         short e = -159;
         int f = 27897;
         byte g = 67;
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+        System.out.println(e);
+        System.out.println(f);
+        System.out.println(g);
 
         //Task 03
         short firstTeacherStudents = 23;
